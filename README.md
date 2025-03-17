@@ -7,3 +7,7 @@
 | [Gonçalo Marinho](https://github.com/gmarinhog165) | [Henrique Vaz](https://github.com/Vaz7) | [Lucas Oliveira](https://github.com/LucasOli20) | [Mike Pinto](https://github.com/mrmikept) | [Rafael Gomes](https://github.com/RafaGomes1) |
 
 </div>
+
+---
+
+<h3 align="center"> 🎖️ Nota - 19.1 / 20 🎖️ </h3>
